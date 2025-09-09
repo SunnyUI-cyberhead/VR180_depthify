@@ -1,0 +1,5 @@
+{
+  "name": "VR180 Immersive Video Converter",
+  "description": "An AI-powered platform to convert standard 2D video clips into immersive VR180 experiences. Upload a video, and let our AI generate a new, engaging virtual reality video.",
+  "requestFramePermissions": []
+}
